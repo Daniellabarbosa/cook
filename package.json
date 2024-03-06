@@ -1,0 +1,21 @@
+{
+  "name": "cook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@expo-google-fonts/poppins": "^0.2.3",
+    "expo": "^50.0.8",
+    "punycode": "^2.3.1",
+    "react-native": "^0.73.5"
+  },
+  "devDependencies": {
+    "metro": "^0.80.6"
+  }
+}
